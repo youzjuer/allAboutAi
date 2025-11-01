@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": {
+    "symbol": "002702.SZ",
+    "price": {
+      "current": 4.81,
+      "target": {
+        "low": 0.0,
+        "high": 0.0,
+        "mean": 0.0,
+        "median": 0.0
+      }
+    },
+    "recommendation": {
+      "mean": 0.0,
+      "key": "none",
+      "analysts_count": 0
+    },
+    "financial_metrics": {
+      "total_cash": 122774896.0,
+      "cash_per_share": 0.224,
+      "total_debt": 484047712.0,
+      "debt_to_equity": 44.594,
+      "current_ratio": 1.323,
+      "quick_ratio": 0.428
+    },
+    "profitability": {
+      "gross_margin": 0.18844,
+      "operating_margin": -0.07273,
+      "profit_margin": -0.02784,
+      "ebitda_margin": 0.02695
+    },
+    "growth": {
+      "revenue_growth": 0.09,
+      "earnings_growth": 0.0
+    },
+    "returns": {
+      "return_on_assets": -0.0066500003,
+      "return_on_equity": -0.04074
+    },
+    "cash_flow": {
+      "operating": -9278158.0,
+      "free": -243759056.0
+    },
+    "currency": "CNY"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "symbol": "002702.SZ",
+    "market_cap": 2673205504.0,
+    "pe_ratio": 0.0,
+    "forward_pe": 0.0,
+    "dividend_yield": 0.0092,
+    "beta": 0.643,
+    "fifty_two_week": {
+      "low": 3.51,
+      "high": 7.13
+    },
+    "moving_averages": {
+      "fifty_day": 4.4632,
+      "two_hundred_day": 4.2632
+    },
+    "volume": {
+      "current": 16011270,
+      "average": 22603245
+    }
+  }
+}
